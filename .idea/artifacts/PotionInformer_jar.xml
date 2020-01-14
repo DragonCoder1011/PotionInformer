@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PotionInformer:jar">
+    <output-path>$USER_HOME$/Desktop/Plugin Testing/plugins</output-path>
+    <root id="archive" name="PotionInformer.jar">
+      <element id="module-output" name="PotionInformer" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,5 @@
+main: com.ice.main.PotionInformer
+name: PotionInformer
+version: 1.0.0
+commands:
+  potions:
